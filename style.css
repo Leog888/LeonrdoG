@@ -1,0 +1,77 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 10px;
+}
+
+body{
+    background-color: tan;
+    
+}
+
+#myName {
+    width:auto;
+    height: 100px;
+    background-color:teal;
+}
+
+h1{ 
+    font-size: 36px;
+}
+
+button {
+    border: black;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
+
+
+h4 {
+    font-size: 24px;
+}
+
+#aboutMe {
+    width: auto;
+    height: 300px;    
+}
+
+#aboutMe, p {
+font-size: 18px;
+}
+
+
+#portfolio {
+    width: auto;
+    height: 300px; 
+}
+
+a {
+margin:30px ;
+font-size: 18px;
+}
+
+#skills {
+    width: auto;
+    height: 300px; 
+}
+
+#skills, ul{
+font-size: 18px;
+}
+
+#contact {
+    width: auto;
+    height: 300px; 
+}
+
+#contact, ul{
+    font-size: 18px;
+}
+
+footer {
+    width: auto;
+    height: 50px; 
+}
